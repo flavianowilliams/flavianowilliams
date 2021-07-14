@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Prof. Flaviano</h1>
+<h1 align="center">Hi 👋, I'm Professor Flaviano</h1>
 <h3 align="center">A passionate physicist, educator and developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavianowilliams&label=Profile%20views&color=0e75b6&style=flat" alt="flavianowilliams" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flavianowilliams" alt="flavianowilliams" /></a> </p>
+- 🔭 I’m currently working on **Molecular dynamics**
+
+- 🌱 I’m currently learning **R, python and machine learning**
 
 - 📫 How to reach me **flavianowilliams@gmail.com**
+
+- 📄 Know about my experiences [Molecular modeling and computational chemistry](Molecular modeling and computational chemistry)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

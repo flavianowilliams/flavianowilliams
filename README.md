@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavianowilliams&label=Profile%20views&color=0e75b6&style=flat" alt="flavianowilliams" /> </p>
 
+- 🔭 I’m currently working on **Physical-chemistry analysis of condensed phase systems by computational simulation project**.
+
 - 🌱 I’m currently learning **R, python and machine learning**.
 
 - 📫 How to reach me: **flavianowilliams@gmail.com**.

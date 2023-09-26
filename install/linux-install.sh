@@ -1,7 +1,6 @@
 #!/bin/bash
 #
-list1=(xorg alacritty i3 ie-gaps i3blocks i3status neofetch pulseaudio pavucontrol neovim openssh)
-#list1=(xorg xterm i3 ie-gaps i3blocks i3status xdg-user-dirs bash-completion git base-devel xtools)
+list1=(xorg alacritty i3 ie-gaps i3blocks i3status neofetch pulseaudio pavucontrol neovim openssh git base-devel xtools xdg-user-dirs)
 list2=(gcc gfortran python3 R rstudio)
 list3=(nitrogen dmenu rofi maim gromit-mpx system-config-printer bootiso texlive-full texstudio qtikz lyx libreoffice mc thunar xreader)
 list4=(texlive-full texstudio qtikz lyx)
@@ -47,6 +46,18 @@ cd void-packages
 #echo XBPS_ALLOW_RESTRICTED=yes >> ~/void-packages/etc/conf
 #./xbps-src pkg google-chrome
 #sudo xbps-install --repository=/home/flaviano/void-packages/hostdir/binpkgs/nonfree google-chrome
+#
+# Install pyenv
+curl https://pyenv.run | bash
+#
+# Setting virtualenvs
+#echo '# Pyenv python environments
+#export PYENV_ROOT="$HOME/.pyenv" 
+#command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+#eval "$(pyenv init -)"
+#eval "$(pyenv virtualenv-init -)"
+#' >> ~/.bashrc
+#source ~/.bashrc
 #
 # update i3
 echo 

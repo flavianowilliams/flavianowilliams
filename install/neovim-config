@@ -1,0 +1,44 @@
+call plug#begin()
+     Plug 'Mofiqul/dracula.nvim'
+     Plug 'morhetz/gruvbox'
+     Plug 'vim-airline/vim-airline'
+     Plug 'vim-airline/vim-airline-themes'
+     Plug 'pocco81/auto-save.nvim'
+call plug#end()
+
+syntax enable
+
+set number
+set background=dark
+set mouse=a
+
+" Tema do neovim ############################################################
+let g:airline_theme='angr'
+
+colorscheme gruvbox 
+" ###########################################################################
+
+" ALE #######################################################################
+"let g:ale_linters = {
+"\	'python': ['flake8', 'pyright', 'bandit'],
+"\}
+"
+"let g:ale_fixers = {
+"\	'python': ['black', 'isort'],
+"\}
+" ###########################################################################
+
+" Python ####################################################################
+"let g:ale_python_flake8_options = '--max-line-length=100 -extend-ignore=E203'
+let g:python3_host_prog = '/home/flaviano/.pyenv/versions/DBQuaest-venv/bin/python3'
+"let g:ale_python_black_options = '--line-length=100'
+" ###########################################################################
+
+" Teclas de atalho ##########################################################
+"nnoremap <C-o> :NERDTreeToggle <cr>
+"nnoremap <C-s> :w! <cr>
+"nnoremap <C-q> :q! <cr>
+" ###########################################################################
+
+"let g:completion_enable_auto_signature = 0
+"let g:completion_matching_strategy_list = ['exact', 'substring', 'fuzzy', 'all']

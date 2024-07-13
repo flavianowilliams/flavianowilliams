@@ -8,6 +8,7 @@
 - 🌱 My work currently involves the following languages:
 
 <div style="display: inline">
+  <img src="https://icon.icepanel.io/Technology/svg/Fortran.svg" width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width=50 />
